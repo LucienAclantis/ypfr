@@ -6,7 +6,7 @@
 	symlinks = false
 	ignorecase = true
 [remote "origin"]
-	url = https://github.com/Ygoproco/Live2017Links.git
+	url = https://github.com/speedi57/YgoProTransCard.git
 	fetch = +refs/heads/*:refs/remotes/origin/*
 [branch "master"]
 	remote = origin
