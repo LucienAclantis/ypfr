@@ -1,12 +1,12 @@
 # Ygopro Percy FR - ES
 ![](https://cdn2.iconfinder.com/data/icons/flags_gosquared/64/France_flat.png)
 # PATH FR de [speedi57 !](https://github.com/speedi57)
-Permets de metre à jour automatiquement les traductions.
+Permets de mettre à jour automatiquement les traductions.
 - Télécharger son patch [ici](https://github.com/speedi57/YgoProFrPatcher/releases).
 - Faudra lancer YgoProFrPatcher.exe et sélectionnez ygopro_vs_links.exe pour patch.
 - Pour désinstaller le patch télécharger de nouveau Ygopro Percy et remplacer ygopro_vs_links.exe, cards.cdb et strings.conf par ceux d'origine.
 # Correctif & Interface
-Corrige certaines erreurs d'interface et de cartes.
+Corrige certaines erreurs d'interface et de cartes à faire après le patch, vous pouvez aussi utilisez ses fichiers sans le patch.
 - Télécharger les fichiers [ici](https://github.com/LucienAclantis/ypfr/archive/master.zip).
 - Remplacer le fichier strings.conf de votre Ygorpo Percy par celui du dossier FR pour avoir l'interface en français.
 - Remplacer le fichier card.cdb de votre Ygorpo Percy par celui du dossier FR pour avoir les cartes en français.
