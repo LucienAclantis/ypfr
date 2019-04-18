@@ -16,7 +16,7 @@ Vous pouvez télécharger mes fichiers manuellement si vous voulez bidouiller un
 
 ![](https://cdn2.iconfinder.com/data/icons/flags_gosquared/64/Spain_flat.png)
 # Ygopro Launcher de [speedi57 !](https://github.com/speedi57)
-Permite cambiar el idioma de la interfaz y de las cartas en cualquier momento.
+Permite cambiar el idioma de la interfaz y de las cartas en cualquier momento y actualizar automáticamente las traducciones.
 - Descargar su Launcher [aqui](https://github.com/speedi57/YgoProFrPatcher/releases).
 - Poner los archivos en las misma carpeta que Ygopro Percy.
 - Habrá que lanzar YgoproLauncher y seleccione su idioma para la interfaz y para las cartas.
@@ -28,5 +28,3 @@ Puedes descargar mis archivos manualmente si quieres modificar un poco.
 - Reemplazar el archivo strings.conf de su Ygorpo Percy por el de la carpeta ES para tener la interfaz en español.
 - Reemplazar el archivo cards.cdb de su Ygorpo Percy por el de la carpeta ES para tener las cartas en español.
 - Para volver a ponerlo en inglés, vuelva a descargar Ygopro Percy y reemplace cards.cdb y strings.conf con los originales.
-
-Gracias à [KServantes](https://github.com/KServantes/ygopro-percy-es) por la cards.cdb en español.
